@@ -1,3 +1,6 @@
+#Author: Renato Mejilla
+#Project Name: PyEditor
+
 import tkinter as tk
 from tkinter import filedialog
 
